@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/06/11 00:47:34.098,=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.pas</Transaction>
+    <Transaction>2018/06/11 00:47:47.976,C:\Fontes\TesteHenriqueManoeldeCampos\Class\unConst.pas=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.pas</Transaction>
+    <Transaction>2018/06/11 02:05:27.952,=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.pas</Transaction>
+    <Transaction>2018/06/11 02:05:45.436,C:\Fontes\TesteHenriqueManoeldeCampos\View\unFrmRelProduto.pas=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.pas</Transaction>
+    <Transaction>2018/06/11 02:05:58.416,C:\Fontes\TesteHenriqueManoeldeCampos\View\unFrmRelProduto.pas=</Transaction>
+    <Transaction>2018/06/11 02:06:05.617,=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.pas</Transaction>
+    <Transaction>2018/06/11 02:06:21.732,C:\Fontes\TesteHenriqueManoeldeCampos\View\unFrmRelProduto.dfm=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.dfm</Transaction>
+    <Transaction>2018/06/11 02:06:21.732,C:\Fontes\TesteHenriqueManoeldeCampos\View\unFrmRelProduto.pas=C:\Fontes\TesteHenriqueManoeldeCampos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
